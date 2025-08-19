@@ -1,4 +1,3 @@
-// Profile.js
 import React from "react";
 import { Card, Avatar, Tag, Button, Row, Col } from "antd";
 import { 
