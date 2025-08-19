@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Layout } from "antd";
 import Sidebar from "./components/Sidebar";
 import Profile from "./components/Profile";
+import Articles from "./components/Articles";
 import "./styles/App.css"; // Correct path to styles folder
 
 const { Sider, Content } = Layout;
