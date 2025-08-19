@@ -1,4 +1,3 @@
-// Articles.js
 import React, { useState } from "react";
 import { Table, Badge, Tag, Tooltip, Card } from "antd";
 import { EyeOutlined } from "@ant-design/icons";
